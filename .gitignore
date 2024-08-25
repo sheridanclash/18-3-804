@@ -1,3 +1,4 @@
+.hugo_build.lock
 archetypes  
 assets      
 #content.en  
@@ -5,7 +6,8 @@ data
 hugo.toml  
 hugo.yaml  
 i18n     
-layouts  
+layouts
+public  
 resources  
 static
 themes
