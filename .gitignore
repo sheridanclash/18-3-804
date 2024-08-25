@@ -1,1 +1,12 @@
-b.sh
+archetypes  
+assets      
+#content.en  
+data        
+hugo.toml  
+hugo.yaml  
+i18n     
+layouts  
+resources  
+static
+themes
+
