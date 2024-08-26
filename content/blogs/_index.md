@@ -2,7 +2,7 @@
 menu:
   after:
     name: blog
-    weight: 3
+    weight: 4
     title: Clash's Blog
 
 ---
