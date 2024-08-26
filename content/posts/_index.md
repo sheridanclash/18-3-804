@@ -1,7 +1,5 @@
 ---
-menu:
-  after:
-    name: blog
-    weight: 5
-title: Blog
+weight: 3
+bookFlatSection: true
+title: Clash's Blog
 ---
