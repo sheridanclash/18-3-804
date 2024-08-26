@@ -10,8 +10,8 @@ tags: [
 , c
 ]
 categories: [
-  A
-, B  
+  Birds
+, Music
 ]
 ---
 
