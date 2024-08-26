@@ -1,4 +1,5 @@
 ---
+bookComments: false
 menu:
   after:
     name: posts
