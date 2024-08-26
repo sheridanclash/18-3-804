@@ -1,5 +1,5 @@
 +++
-title = "Getting Started with Hugo"
+title = "C"
 description = ""
 tags = [
     "go",
