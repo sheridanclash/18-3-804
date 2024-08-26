@@ -1,10 +1,10 @@
 ---
-enableGitInfo: false
-disablePathToLower: false
-BookComments: false
-BookTheme: 'dark'
-BookRepo: ''
-#BookEditPath: false
+#enableGitInfo: false
+#disablePathToLower: false
+#BookComments: false
+#BookTheme: 'dark'
+#BookRepo: ''
+BookEditPath: ''
 menu:
   after:
     name: posts
