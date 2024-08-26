@@ -8,7 +8,7 @@ menu:
 next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
 title: New Theme
-weight: 10
+weight: 11
 categories: [A]
 tags: [a,b,c]
 ---
