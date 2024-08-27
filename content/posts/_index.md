@@ -4,7 +4,7 @@
 #BookComments: false
 #BookTheme: 'dark'
 #BookRepo: ''
-BookEditPath: ''
+#BookEditPath: ''
 menu:
   after:
     name: posts
