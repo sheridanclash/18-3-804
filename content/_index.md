@@ -7,7 +7,8 @@ type: docs
 Each county treasurer shall keep a true account of the receipts and expenditures of all monies which come into his office and shall perform all duties required by law.
 
 {{< columns >}}
-## 
+## Question
+Define shall in this context.
 
 
 
